@@ -217,14 +217,14 @@
           <top>0</top>
           <width>310</width>
           <height>90</height>
-          <texture border="100,0,0,0">common/TimePanel.png</texture>
+          <texture flipy="true" border="100,0,0,0">common/TimePanel.png</texture>
         </control>
         <control type="image">
           <left>0</left>
           <top>0</top>
           <width>310</width>
           <height>90</height>
-          <texture flipx="true" border="0,0,100,0">common/TimePanel.png</texture>
+          <texture flipy="true" flipx="true" border="0,0,100,0">common/TimePanel.png</texture>
         </control>
  
          <control type="image">
